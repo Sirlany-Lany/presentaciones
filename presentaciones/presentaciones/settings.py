@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'clases.apps.ClasesConfig',
     'inicio.apps.InicioConfig',
     'registro.apps.RegistroConfig',
+    'proyecto.apps.ProyectoConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
