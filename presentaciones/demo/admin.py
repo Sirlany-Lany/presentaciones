@@ -1,4 +1,4 @@
 from django.contrib import admin
-from registro.models import RegistroUsuarios
+from demo.models import CreadorDemos
 
-admin.site.register(RegistroUsuarios)
+admin.site.register(CreadorDemos)

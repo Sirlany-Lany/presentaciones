@@ -3,6 +3,6 @@ from django.shortcuts import get_object_or_404, render
 
 # Create your views here.
 
-def registro(request):
+def demo(request):
     
-    return render(request, 'registro.html')
+    return render(request, 'demo.html')
